@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238785418408",
+    "project_id": "journalmemos",
+    "storage_bucket": "journalmemos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238785418408:android:4e4d7f8dd62598342dde9d",
+        "android_client_info": {
+          "package_name": "com.example.journalmemos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR8PWMJi2ZlbNNnGZnZI9Cgp1W7OB0hDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
